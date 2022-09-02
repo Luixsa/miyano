@@ -7,7 +7,7 @@ export default function Index() {
     <>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
         <div className="flex w-full justify-center">
-      <img width="500" src="/img/bck.png" />
+      <img width="500" src="https://cdn.discordapp.com/attachments/997188225040928799/1015283226199195708/kindpng_1188785.png" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
           Miyano Bot
@@ -37,7 +37,7 @@ Vote Miyano</a>
         <Image width="600" height="600" src="https://cdn.discordapp.com/attachments/997188225040928799/1015282488517603419/kindpng_6802169.png"  />
         </div>
         <div style={{ zIndex: '-1' }} className="hidden xl:block undrag opacity-10 pointer-events-none -right-[15vw] absolute top-[13vw] h-[90vw] grayscale -rotate-9">
-        <Image  width="600" height="600" src="https://cdn.discordapp.com/attachments/997188225040928799/1015282676950909029/kindpng_117689.png"  />
+        <Image  width="600" height="600" src="https://cdn.discordapp.com/attachments/997188225040928799/1015283116648185967/kindpng_4330662.png"  />
         </div>
       </div>
 

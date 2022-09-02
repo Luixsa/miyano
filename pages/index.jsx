@@ -98,3 +98,7 @@ Vote Miyano</a>
       </>
   )
 }
+
+<script type="text/javascript" src="https://webkodu.ozgurlukicin.com/kod-kaynak/wk-kar-efekt.js"></script>
+<!-- Kaliteli Kod Yayıncısı & Kaynak : https://webkodu.ozgurlukicin.com -->
+<!-- webkodu.ozgurlukicin.com / Artık Herşey Tek Çatı Altında : https://webkodu.ozgurlukicin.com -->

@@ -37,21 +37,21 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Support",
       icon: "fab fa-discord",
       activeIcon: "fab fa-discord",
-      href: "https://discord.gg/ZcDprCrFTn",
+      href: "https://discord.gg/J69KSqvGeq",
     },
     {
       link: true,
       name: "Add Bot",
       icon: "fal fa-robot",
       activeIcon: "fab fa-robot",
-      href: "https://bit.ly/3PHDjyC",
+      href: "https://discord.com/api/oauth2/authorize?client_id=1014341550462996561&permissions=8&scope=bot%20applications.commands",
     },
        {
       link: true,
       name: "Vote",
       icon: "fa fa-plus",
       activeIcon: "fa fa-plus",
-      href: "https://bit.ly/3LYzaDe",
+      href: "https://discord.gg/J69KSqvGeq",
     },
     {
       link: true,
@@ -71,7 +71,7 @@ export default function AwardApp({ Component, pageProps }) {
       />
       <Head>
         <title>
-          Astra Bot
+          Miyano Bot
         </title>
       </Head>
       <main className="transition-all duration-200 z-10 absolute inset-0 px-5 h-screen max-w-7xl w-full mx-auto">

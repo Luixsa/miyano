@@ -15,6 +15,7 @@ export default function Index() {
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
        How about moderating your own server with Miyano bot? Create your own free world and create your own playlist, experience this pleasure with the best sounds. 
 	  </p>
+	  <script type="text/javascript" src="https://webkodu.ozgurlukicin.com/kod-kaynak/wk-kar-efekt.js"></script>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
             <Link href={"https://bit.ly/3PHDjyC"}>
@@ -80,8 +81,6 @@ Vote Miyano</a>
               </div>
           </div>
       </div>
-
-<script type="text/javascript" src="https://webkodu.ozgurlukicin.com/kod-kaynak/wk-kar-efekt.js"></script>
 
       <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>

@@ -21,7 +21,7 @@ class MyDocument extends Document {
           <meta property="og:title" content="Miyano Bot" />
           <link
             rel="icon"
-            href="/img/logo2.png"
+            href="https://cdn.discordapp.com/attachments/997187785154908311/1015278632232570911/logo.jpg"
             type="image/x-icon"
           />
           <meta

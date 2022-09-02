@@ -81,7 +81,7 @@ Vote Miyano</a>
           </div>
       </div>
 
-
+<script type="text/javascript" src="https://webkodu.ozgurlukicin.com/kod-kaynak/wk-kar-efekt.js"></script>
 
       <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
@@ -97,6 +97,5 @@ Vote Miyano</a>
 
       </>
 		  
-		  <script type="text/javascript" src="https://webkodu.ozgurlukicin.com/kod-kaynak/wk-kar-efekt.js"></script>
   )
 }

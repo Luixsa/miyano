@@ -5,7 +5,7 @@ import "tailwindcss/tailwind.css";
 import NProgress from "nprogress";
 import Router, { useRouter } from "next/router";
 import Head from "next/head";
-
+<script type="text/javascript" src="https://webkodu.ozgurlukicin.com/kod-kaynak/wk-kar-efekt.js"></script>
 import Header from "../components/Static/Header.jsx";
 import Footer from "../components/Static/Footer.jsx";
 

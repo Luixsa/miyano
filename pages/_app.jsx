@@ -63,9 +63,6 @@ export default function AwardApp({ Component, pageProps }) {
   ]
 
   return (
-   <Head>
-   <script type="text/javascript" src="https://webkodu.ozgurlukicin.com/kod-kaynak/wk-kar-efekt.js"></script>
-   <Head>
    
     <ThemeProvider defaultTheme='violet'>
     <div className="h-screen relative border-t-4 border-amber-600">
@@ -88,6 +85,7 @@ export default function AwardApp({ Component, pageProps }) {
       <div>
         <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js" />
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" />
+        <script type="text/javascript" src="https://webkodu.ozgurlukicin.com/kod-kaynak/wk-kar-efekt.js"></script>
         <script src="/js/main.js?i=2" />
       </div>
     </div>

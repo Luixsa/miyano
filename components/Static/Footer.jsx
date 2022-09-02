@@ -30,16 +30,16 @@ export default function Footer() {
                                         />
                                     </Menu.Button>
 <div className="py-1"></div>
-<a href="https://top.gg/bot/924325576095973426">
-  <img src={"https://top.gg/api/widget/servers/924325576095973426.svg"}/>
+<a href="https://discord.gg/J69KSqvGeq">
+  <img src={"https://discord.gg/J69KSqvGeq.svg"}/>
 </a>
 <div className="py-1"></div>
-<a href="https://top.gg/bot/924325576095973426">
-  <img src={"https://top.gg/api/widget/upvotes/924325576095973426.svg"}/>
+<a href="https://discord.gg/J69KSqvGeq">
+  <img src={"https://discord.gg/J69KSqvGeq.svg"}/>
 </a>
 <div className="py-1"></div>
-<a href="https://top.gg/bot/924325576095973426">
-  <img src={"https://top.gg/api/widget/owner/924325576095973426.svg"}/>
+<a href="https://discord.gg/J69KSqvGeq">
+  <img src={"https://discord.gg/J69KSqvGeq.svg"}/>
 </a>
                                 </div>
                             </Menu>
@@ -48,7 +48,7 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Links</p>
                             <div>
-                                <Link href="https://bit.ly/3LYzaDe">
+                                <Link href="https://discord.gg/J69KSqvGeq">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                         Vote Bot
                                     </a>

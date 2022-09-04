@@ -9,7 +9,7 @@ export default function Partners() {
       </div>
                 <h1 className="py-7 animateHeader text-4xl font-extrabold text-center text-white">
                     <i className="fal fa-stars text-amber-400 mr-2" />
-                    Partners
+                    Team
                 </h1>
             </div>
 
@@ -20,7 +20,7 @@ export default function Partners() {
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
                             <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/997187785154908311/1015836301037142118/Man_PP_Gif_15.gif" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">Kurucu</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">Founder</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
                                         iqo#9999
@@ -36,7 +36,7 @@ export default function Partners() {
                             <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
                             <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/997187785154908311/1015831633796018286/miyanom.jpg" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">Kurucu</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">Founder</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
                                     You can get help on software and similar issues or you can spend time chatting. How about being a cool developer?

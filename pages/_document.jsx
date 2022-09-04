@@ -11,7 +11,7 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="How about moderating your own server with Miyano bot? Create your own free world and create your own playlist, experience this pleasure with the best sounds."
+            content="Are you ready to throw the best parties with Miyano, the best and most up-to-date bot?"
           />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@MiyanoBot" />
@@ -26,7 +26,7 @@ class MyDocument extends Document {
           />
           <meta
             property="og:description"
-            content="How about moderating your own server with Miyano bot? Create your own free world and create your own playlist, experience this pleasure with the best sounds."
+            content="Are you ready to throw the best parties with Miyano, the best and most up-to-date bot?"
           />
           <meta property="og:image" content="https://cdn.discordapp.com/attachments/997187785154908311/1015831633796018286/miyanom.jpg" />
           <meta property="og:image:alt" content="Miyano Bot" />

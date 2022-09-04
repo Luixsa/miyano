@@ -30,15 +30,15 @@ export default function Footer() {
                                         />
                                     </Menu.Button>
 <div className="py-1"></div>
-<a href="https://discord.gg/J69KSqvGeq">
+<a href="https://discord.gg/J69KSqvGeq" target="_blank" >
   <img src={"https://cdn.discordapp.com/attachments/997188225040928799/1015287542653919382/eyebrows.gif"}/>
 </a>
 <div className="py-1"></div>
-<a href="https://discord.gg/J69KSqvGeq">
+<a href="https://discord.gg/J69KSqvGeq" target="_blank">
   <img src={"https://cdn.discordapp.com/attachments/997188225040928799/1015287542653919382/eyebrows.gif"}/>
 </a>
 <div className="py-1"></div>
-<a href="https://discord.gg/J69KSqvGeq">
+<a href="https://discord.gg/J69KSqvGeq" target="_blank">
   <img src={"https://cdn.discordapp.com/attachments/997188225040928799/1015287542653919382/eyebrows.gif"}/>
 </a>
                                 </div>

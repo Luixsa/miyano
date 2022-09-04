@@ -27,7 +27,7 @@ export default function Index() {
               </a>
             </Link>
   <div className="py-10"></div>
-  <a href={"https://discord.gg/J69KSqvGeq"} target="_blank">
+  <Link href={"https://discord.gg/J69KSqvGeq"} target="_blank">
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
 Vote Miyano</a>
   </Link>

@@ -28,7 +28,7 @@ class MyDocument extends Document {
             property="og:description"
             content="How about moderating your own server with Miyano bot? Create your own free world and create your own playlist, experience this pleasure with the best sounds."
           />
-          <meta property="og:image" content="/img/logo.jpg" />
+          <meta property="og:image" content="https://cdn.discordapp.com/attachments/997187785154908311/1015831633796018286/miyanom.jpg" />
           <meta property="og:image:alt" content="Miyano Bot" />
           <meta property="og:locale" content="en_GB" />
           <meta

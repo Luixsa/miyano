@@ -14,7 +14,7 @@ export default function Tos() {
 <div className="py-3"></div>
 <p>⊳ While using the bot, you cannot use it in a way that harms other users for troll purposes.</p>
 <div className="py-3"></div>
-<p>⊳ To use certain discord bot commands, you need to vote for the <a className="text-white" href="https://discord.gg/J69KSqvGeq">Miyano</a> bot at certain intervals.</p>
+<p>⊳ To use certain discord bot commands, you need to vote for the <a className="text-white" href="https://discord.gg/J69KSqvGeq" target="_blank">Miyano</a> bot at certain intervals.</p>
 </div>
     </div>
   );

@@ -35,7 +35,7 @@ class MyDocument extends Document {
             property="og:site_name"
             content="Miyano Bot"
           />
-          <meta name="theme-color" content="#6108dd" />
+          <meta name="theme-color" content="#ffffff" />
           <link rel="icon" href="https://cdn.discordapp.com/attachments/997187785154908311/1015831633796018286/miyanom.jpg" type="image/x-icon" />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"

@@ -18,12 +18,12 @@ export default function Partners() {
             <div className="flex flex-col justify-center text-white rounded">
             <a href="https://discord.gg/J69KSqvGeq">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/997187785154908311/1015831633796018286/miyanom.jpg" />
+                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/997187785154908311/1015836301037142118/Man_PP_Gif_15.gif" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">Miyano</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">iqo</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                        Share Your Codes, Can You Keep Your Projects Active Forever. World's Largest Website with Discord Interface!
+                                        KURUCU
                                     </p>
                                 </div>     
                             </div>

@@ -37,7 +37,7 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Support",
       icon: "fab fa-discord",
       activeIcon: "fab fa-discord",
-      href: "https://discord.gg/J69KSqvGeq",
+      href: "https://discord.gg/RDNNXqdVab",
     },
     {
       link: true,
